@@ -1,0 +1,10 @@
+
+.product-selected-container{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.product-selected-container p{
+    font-size: 1.4rem;
+    text-align: center;
+}
